@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/prefix">
+        <file>images/bus.png</file>
+        <file>images/node5.png</file>
+        <file>images/node0.png</file>
+        <file>images/node1.png</file>
+        <file>images/node2.png</file>
+        <file>images/node3.png</file>
+        <file>images/node4.png</file>
+        <file>images/cache_event.png</file>
+        <file>images/CPU0.png</file>
+        <file>images/CPU1.png</file>
+        <file>images/CPU2.png</file>
+        <file>images/CPU3.png</file>
+        <file>images/DMA.png</file>
+        <file>images/L2Cache0.png</file>
+        <file>images/L2Cache1.png</file>
+        <file>images/L2Cache2.png</file>
+        <file>images/L2Cache3.png</file>
+        <file>images/L3Cache0.png</file>
+        <file>images/L3Cache1.png</file>
+        <file>images/L3Cache2.png</file>
+        <file>images/L3Cache3.png</file>
+        <file>images/memory_node0.png</file>
+        <file>statistics/CPU_statistics.txt</file>
+        <file>statistics/Cache_statistics.txt</file>
+        <file>statistics/Bus_statistics.txt</file>
+        <file>statistics/Node_statistics.txt</file>
+        <file>statistics/Edge_statistics.txt</file>
+        <file>statistics/cache_event_trace_statistics.txt</file>
+    </qresource>
+</RCC>

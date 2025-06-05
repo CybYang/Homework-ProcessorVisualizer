@@ -1,0 +1,39 @@
+Node0:
+port_id: 0
+port_id: 1
+----------
+trans_pack_num: 2746
+busy_rate: 0.047560
+
+Node1:
+port_id: 2
+port_id: 3
+----------
+trans_pack_num: 2080
+busy_rate: 0.049361
+
+Node2:
+port_id: 4
+----------
+trans_pack_num: 1238
+busy_rate: 0.038977
+
+Node3:
+port_id: 5
+port_id: 6
+----------
+trans_pack_num: 1760
+busy_rate: 0.028337
+
+Node4:
+port_id: 7
+port_id: 8
+----------
+trans_pack_num: 1607
+busy_rate: 0.022962
+
+Node5:
+port_id: 9
+----------
+trans_pack_num: 0
+busy_rate: 0.012361

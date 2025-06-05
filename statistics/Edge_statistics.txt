@@ -1,0 +1,59 @@
+edge1:
+edge1: 0->1
+----------
+busy_rate: 0.018136
+
+edge2:
+edge2: 1->0
+----------
+busy_rate: 0.015445
+
+edge3:
+edge3: 1->2
+----------
+busy_rate: 0.016133
+
+edge4:
+edge4: 2->1
+----------
+busy_rate: 0.016329
+
+edge5:
+edge5: 2->3
+----------
+busy_rate: 0.014542
+
+edge6:
+edge6: 3->2
+----------
+busy_rate: 0.006632
+
+edge7:
+edge7: 3->4
+----------
+busy_rate: 0.008237
+
+edge8:
+edge8: 4->3
+----------
+busy_rate: 0.003418
+
+edge9:
+edge9: 4->5
+----------
+busy_rate: 0.007130
+
+edge10:
+edge10: 5->4
+----------
+busy_rate: 0.005231
+
+edge11:
+edge11: 5->0
+----------
+busy_rate: 0.007130
+
+edge12:
+edge12: 0->5
+----------
+busy_rate: 0.005231

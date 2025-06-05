@@ -1,0 +1,47 @@
+CPU0:
+tot_tick_processed: 85339             
+finished_inst_cnt: 31189              
+ld_cache_miss_cnt: 165                
+ld_cache_hit_cnt: 6429
+ld_inst_cnt: 6594                   
+ld_mem_tick_sum: 11460                  
+st_cache_miss_cnt: 333                
+st_cache_hit_cnt: 4889
+st_inst_cnt: 5222
+st_mem_tick_sum: 14880
+
+CPU1:
+tot_tick_processed: 87306
+finished_inst_cnt: 34298
+ld_cache_miss_cnt: 347
+ld_cache_hit_cnt: 6583
+ld_inst_cnt: 6930
+ld_mem_tick_sum: 17390
+st_cache_miss_cnt: 149
+st_cache_hit_cnt: 2102
+st_inst_cnt: 2251
+st_mem_tick_sum: 6340
+
+CPU2:
+tot_tick_processed: 28999
+finished_inst_cnt: 10333
+ld_cache_miss_cnt: 64
+ld_cache_hit_cnt: 1882
+ld_inst_cnt: 1946
+ld_mem_tick_sum: 4157
+st_cache_miss_cnt: 119
+st_cache_hit_cnt: 1617
+st_inst_cnt: 1736
+st_mem_tick_sum: 5373
+
+CPU3:
+tot_tick_processed: 27904
+finished_inst_cnt: 9921
+ld_cache_miss_cnt: 63
+ld_cache_hit_cnt: 1792
+ld_inst_cnt: 1855
+ld_mem_tick_sum: 3993
+st_cache_miss_cnt: 110
+st_cache_hit_cnt: 1525
+st_inst_cnt: 1635
+st_mem_tick_sum: 5052

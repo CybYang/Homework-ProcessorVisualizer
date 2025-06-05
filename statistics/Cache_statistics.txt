@@ -1,0 +1,127 @@
+L3Cache0:
+port_id: 1
+way_count: 8
+set_count: 512
+mshr_count: 8
+index_width: 1
+index_latency: 10
+nuca_index: 0
+nuca_num: 4
+----------
+llc_hit_cnt: 179
+llc_miss_cnt: 316
+
+L3Cache1:
+port_id: 3
+way_count: 8
+set_count: 512
+mshr_count: 8
+index_width: 1
+index_latency: 10
+nuca_index: 1
+nuca_num: 4
+----------
+llc_hit_cnt: 227
+llc_miss_cnt: 363
+
+L3Cache2:
+port_id: 6
+way_count: 8
+set_count: 512
+mshr_count: 8
+index_width: 1
+index_latency: 10
+nuca_index: 2
+nuca_num: 4
+----------
+llc_hit_cnt: 252
+llc_miss_cnt: 378
+
+L3Cache3:
+port_id: 8
+way_count: 8
+set_count: 512
+mshr_count: 8
+index_width: 1
+index_latency: 10
+nuca_index: 3
+nuca_num: 4
+----------
+llc_hit_cnt: 223
+llc_miss_cnt: 341
+
+L2Cache0:
+port_id: 0
+l1i_way_cnt: 8
+l1i_set_cnt: 16
+l1d_way_cnt: 8
+l1d_set_cnt: 32
+l2_way_cnt: 8
+l2_set_cnt: 128
+l2_mshr_cnt: 8
+l2_index_width: 1
+l2_index_latency: 4
+----------
+l1i_hit_cnt: 71125
+l1i_miss_cnt: 673
+l1d_hit_cnt: 11540
+l1d_miss_cnt: 515
+l2_hit_cnt: 192
+l2_miss_cnt: 971
+
+L2Cache1:
+port_id: 2
+l1i_way_cnt: 8
+l1i_set_cnt: 16
+l1d_way_cnt: 8
+l1d_set_cnt: 32
+l2_way_cnt: 8
+l2_set_cnt: 128
+l2_mshr_cnt: 8
+l2_index_width: 1
+l2_index_latency: 4
+----------
+l1i_hit_cnt: 101028
+l1i_miss_cnt: 251
+l1d_hit_cnt: 9182
+l1d_miss_cnt: 515
+l2_hit_cnt: 69
+l2_miss_cnt: 678
+
+L2Cache2:
+port_id: 5
+l1i_way_cnt: 8
+l1i_set_cnt: 16
+l1d_way_cnt: 8
+l1d_set_cnt: 32
+l2_way_cnt: 8
+l2_set_cnt: 128
+l2_mshr_cnt: 8
+l2_index_width: 1
+l2_index_latency: 4
+----------
+l1i_hit_cnt: 26766
+l1i_miss_cnt: 148
+l1d_hit_cnt: 3621
+l1d_miss_cnt: 191
+l2_hit_cnt: 19
+l2_miss_cnt: 320
+
+L2Cache3:
+port_id: 7
+l1i_way_cnt: 8
+l1i_set_cnt: 16
+l1d_way_cnt: 8
+l1d_set_cnt: 32
+l2_way_cnt: 8
+l2_set_cnt: 128
+l2_mshr_cnt: 8
+l2_index_width: 1
+l2_index_latency: 4
+----------
+l1i_hit_cnt: 26354
+l1i_miss_cnt: 148
+l1d_hit_cnt: 3451
+l1d_miss_cnt: 181
+l2_hit_cnt: 19
+l2_miss_cnt: 310
